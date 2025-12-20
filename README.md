@@ -14,6 +14,7 @@ Data Structures and Algorithms and prepare for coding interviews.
 - Stacks
 - Queues
 - Trees
+- HashMap
 - Dynamic Programming
 
 
