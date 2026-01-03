@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*
 Problem: Find the Duplicate Number (LeetCode #287)
 
@@ -28,3 +29,5 @@ class Solution {
         return -1; // unreachable as per problem constraints
     }
 }
+=======
+>>>>>>> 40f1843 (Add Solutions For LC:797)
