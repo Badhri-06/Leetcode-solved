@@ -7,13 +7,16 @@ Data Structures and Algorithms and prepare for coding interviews.
 ## Language Used
 - Java
 - C
+- Python
 
 ## Topics Iam planning to cover
 - Arrays
+- Strings
 - Linked Lists
 - Stacks
 - Queues
 - Trees
+- Graph
 - HashMap
 - Dynamic Programming
 
